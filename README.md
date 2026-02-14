@@ -36,6 +36,7 @@ makefile/
 
 ## How to Run
 
+
 1. Install dependencies:
 
 make setup
@@ -48,7 +49,7 @@ make all
 
 make clean
 
-##Available Commands
+## Available Commands
 
 make setup – Install dependencies
 
