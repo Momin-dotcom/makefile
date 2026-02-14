@@ -40,9 +40,15 @@ makefile/
 
 make setup
 
-2.make all
+2. Run the pipline:
 
-Available Commands
+make all
+
+3. Clean the artifacts:
+
+make clean
+
+##Available Commands
 
 make setup – Install dependencies
 
